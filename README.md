@@ -21,5 +21,5 @@ Fixed precision and scale (digits to right of decimal point) numbers
 Use to store binary data such as an image or file  
 ### FLOAT  
 Scientific use (very large numbers)  
-### BIT  
+#### BIT  
 Equivalent to binary (0.1 or NULL)  
