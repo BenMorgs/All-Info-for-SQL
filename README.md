@@ -7,19 +7,19 @@ DCL (Data control language) – Grant, revoke
 TCL (Transaction control language) – Commit. Rollback, save-point  
 
 ## Data Types
-VARCHAR  
+### VARCHAR  
 Adaptable to different lengths of characters. Records MAX size  
-CHARACTER or CHAR  
+### CHARACTER or CHAR  
 Data must be at a fixed length. Fixed amount of space used.  
-INT  
+### INT  
 Holds a whole number/integer value (see also bigint, smallint and tinyint) positive or negative  
-DATE or TIME or DATETIME  
+### DATE or TIME or DATETIME  
 Stores date time or both date and time  
-DECIMAL or NUMERIC  
+### DECIMAL or NUMERIC  
 Fixed precision and scale (digits to right of decimal point) numbers  
-BINARY  
+### BINARY  
 Use to store binary data such as an image or file  
-FLOAT  
+### FLOAT  
 Scientific use (very large numbers)  
-BIT  
+### BIT  
 Equivalent to binary (0.1 or NULL)  
