@@ -1,12 +1,12 @@
-#SQL Revision
+# SQL Revision
 
-##Structured query language
+## Structured query language
 DML (Data manipulation language) – Select, insert, update, delete
 DDL (Data definition language) – Create, alter, drop, truncate
 DCL (Data control language) – Grant, revoke
 TCL (Transaction control language) – Commit. Rollback, save-point
 
-##Data Types
+## Data Types
 VARCHAR
 Adaptable to different lengths of characters. Records MAX size
 CHARACTER or CHAR
